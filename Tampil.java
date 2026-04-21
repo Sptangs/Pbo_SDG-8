@@ -1,0 +1,3 @@
+interface Tampil {
+    void tampilInfo();
+}
